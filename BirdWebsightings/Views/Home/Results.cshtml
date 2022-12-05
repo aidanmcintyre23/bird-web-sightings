@@ -1,0 +1,25 @@
+﻿@model BirdWebsightings.Models.ResultsViewModel
+
+<style>
+    .sightings-panel
+    {
+        border: 1px solid black;
+        margin-top: 5px;
+        width: 40rem;
+    }
+
+    .sighting
+    {
+        border-bottom: 1px solid black;
+        margin-bottom: 2px;
+    }
+</style>
+
+<table class="sightings-panel">
+        @foreach (var result in Model.Results)
+        {
+            <tr class="sighting">
+                <td>@result.Location - @result.Date</td>
+            </tr>
+        }
+</table>

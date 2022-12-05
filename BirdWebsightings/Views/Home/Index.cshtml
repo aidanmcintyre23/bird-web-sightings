@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Bird Websightings";
+}
+
+@model BirdWebsightings.Models.IndexViewModel
+
+<h1>@Model.Header</h1>
+<a href="/report-sighting">Report a Sighting</a>
+
+<partial name="Results" model="Model.Results" />

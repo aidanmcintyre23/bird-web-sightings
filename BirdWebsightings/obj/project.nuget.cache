@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "vb7E7gKtuiJxrYQ7Vwvy9BejC+TTcUTUMG2bvkKoUkZ7vpCjSUHsxbLKKvBPLH8g6PA29wsHoIh/uo0ns9M4EA==",
+  "success": true,
+  "projectFilePath": "/Users/aidanmcintyre/Projects/BirdWebsightings/BirdWebsightings/BirdWebsightings.csproj",
+  "expectedPackageFiles": [
+    "/Users/aidanmcintyre/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/microsoft.data.sqlite/7.0.0/microsoft.data.sqlite.7.0.0.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/npgsql/7.0.0/npgsql.7.0.0.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.2/sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "/Users/aidanmcintyre/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
